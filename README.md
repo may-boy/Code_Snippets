@@ -2,37 +2,106 @@
 
 This repository contains the regular problems that I solve in order to enhance my skill set.
 
-Java Development Learning Path
+JJava Development Learning Path
 Core Java Concepts
-Advanced Object-Oriented Programming: Deep dive into polymorphism, inheritance, encapsulation, and abstraction.
-Java Collections Framework: Master the use of List, Set, Map, and Queue interfaces and their implementations.
-Generics: Understand how to use generic types for stronger type checks at compile time.
-Functional Programming: Learn about lambda expressions, functional interfaces, and the Stream API.
-Concurrency and Multithreading: Explore threads, synchronization, the java.util.concurrent package, and the Java Memory
-Model.
-Java I/O and NIO: Get a grip on Java's input and output mechanisms, including the New I/O (NIO) for more efficient file
-handling.
-Exception Handling: Deepen your understanding of try-catch blocks, custom exceptions, and best practices.
+Advanced Object-Oriented Programming
+1.1. Deep dive into polymorphism: Method overloading and overriding
+1.2. Mastering inheritance: Class hierarchy and interfaces
+1.3. Encapsulation and abstraction: Data hiding and abstract classes
+
+Java Collections Framework
+2.1. List and its implementations: ArrayList vs LinkedList
+2.2. Set and its implementations: HashSet vs TreeSet
+2.3. Map and its implementations: HashMap vs TreeMap
+
+Generics
+3.1. Generic Classes and Methods: Creating type-safe classes and methods
+3.2. Bounded Type Parameters: Restricting the types that can be used in generics
+3.3. Wildcards: Using generic wildcards for greater flexibility
+
+Functional Programming
+4.1. Lambda Expressions: Syntax and usage
+4.2. Functional Interfaces: Predicate, Function, Consumer, and Supplier
+4.3. Stream API: Stream operations and patterns
+
+Concurrency and Multithreading
+5.1. Creating and managing threads: Thread class and Runnable interface
+5.2. Synchronization and Locks: Managing resource access
+5.3. Concurrent Collections and Executors: Advanced thread management
+
+Java I/O and NIO
+6.1. File Handling with Java I/O: File and FileReader/Writer classes
+6.2. Byte Streams and Character Streams: InputStream and OutputStream
+6.3. Introduction to NIO: Channels, Buffers, and Selectors
+
+Exception Handling
+7.1. Try-Catch Blocks: Basic exception handling
+7.2. Creating Custom Exceptions: Custom exception classes
+7.3. Best Practices: Exception handling strategies
+
 Java Ecosystem and Tools
-Build Tools: Familiarize yourself with Maven and Gradle for project management and builds.
-Unit Testing: Learn JUnit, Mockito for testing, and understand test-driven development (TDD).
-Version Control: Become proficient in using Git and GitHub for source code management.
+Build Tools
+1.1. Maven: Project structure and pom.xml
+1.2. Gradle: Build scripts and dependencies
+1.3. Dependency Management: Managing libraries and modules
+
+Unit Testing
+2.1. JUnit: Writing and running tests
+2.2. Mockito: Mocking dependencies
+2.3. Test-Driven Development (TDD): Principles and practices
+
+Version Control
+3.1. Git Basics: Commits, branches, merges
+3.2. GitHub: Repositories, pull requests, issues
+3.3. Branching Strategies: Feature branches, Git Flow
+
 Java Frameworks and Libraries
-Spring Framework: Dive into Spring Core, Spring Boot, Spring MVC, and Spring Data for comprehensive back-end
-development.
-Hibernate and JPA: Understand object-relational mapping (ORM), entity management, and querying databases.
-RESTful Web Services: Learn to create and consume RESTful services using Spring Boot and Jersey.
-Security: Explore Spring Security for authentication and authorization.
+Spring Framework
+1.1. Spring Core: Dependency Injection and IoC Container
+1.2. Spring Boot: Convention over configuration
+1.3. Spring MVC: Model-View-Controller architecture
+
+Hibernate and JPA
+2.1. ORM Concepts: Entities, Relationships
+2.2. Entity Management: EntityManager, Persistence Context
+2.3. JPQL and Criteria API: Querying databases
+
+RESTful Web Services
+3.1. Building REST APIs with Spring Boot
+3.2. Data Transfer Objects (DTOs)
+3.3. API Versioning and Documentation
+
+Security
+4.1. Authentication vs Authorization
+4.2. Spring Security Configuration
+4.3. OAuth2 and JWT for Secure APIs
+
 Advanced Topics
-Microservices Architecture: Understand the principles of microservices, and learn how to develop them using Spring Boot.
-Distributed Systems and Cloud Services: Familiarize yourself with cloud service providers like AWS or Azure, and
-understand how to deploy Java applications.
-Containerization: Learn about Docker and Kubernetes for containerizing and orchestrating your applications.
+Microservices Architecture
+1.1. Principles and Best Practices
+1.2. Developing Microservices with Spring Boot
+1.3. Inter-service Communication: REST, Feign Clients, Messaging
+
+Distributed Systems and Cloud Services
+2.1. Cloud Providers: AWS, Azure basics
+2.2. Deployment Models: IaaS, PaaS, SaaS
+2.3. Containerization and Orchestration: Docker, Kubernetes basics
+
+Containerization
+3.1. Docker: Containers and Images
+3.2. Docker Compose: Defining multi-container applications
+3.3. Kubernetes: Pods, Services, Deployments
+
 Front-End Development with React
 Basics of Web Development
-HTML & CSS: Solidify your understanding of HTML5 and CSS3 for structuring and styling web pages.
-JavaScript (ES6 and beyond): Get comfortable with JavaScript fundamentals, including ES6 features like arrow functions,
-promises, async/await, and modules.
+HTML & CSS
+1.1. Semantic HTML: Tags and best practices
+1.2. Advanced CSS: Flexbox, Grid
+1.3. Responsive Design: Media queries, mobile-first approach
+
+JavaScript (ES6 and beyond)
+
+
 React Fundamentals
 React Core Concepts: Learn about JSX, components, props, state, and the component lifecycle.
 Hooks: Understand hooks like useState, useEffect, useContext, and useReducer for state management and side effects in
