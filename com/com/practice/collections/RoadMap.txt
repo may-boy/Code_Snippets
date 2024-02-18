@@ -1,0 +1,40 @@
+Roadmap for the Collections framework:
+
+1.List Implementations: ArrayList vs LinkedList
+2.What is the Java Collections Framework and why is it important?
+3.How do you initialize an ArrayList and a LinkedList in Java?
+4.What are the primary differences between ArrayList and LinkedList in terms of their data structures?
+5.How does the choice between ArrayList and LinkedList affect the performance of adding elements to the list?
+6.In what scenarios is ArrayList preferred over LinkedList for retrieval operations?
+7.How do you iterate over an ArrayList and a LinkedList? Provide code examples.
+8.What happens when you try to add an element to a full ArrayList?
+9.How does the removal of elements from the middle of a list compare between ArrayList and LinkedList in terms of performance?
+10.Can you store null values in an ArrayList and a LinkedList? Provide examples.
+Write a code snippet to convert an ArrayList to an array and vice versa.
+How do ArrayList and LinkedList handle duplicates?
+Explain the significance of the ListIterator and how it can be used with LinkedList.
+Discuss the memory usage differences between ArrayList and LinkedList.
+What are the implications of using an ArrayList in a multi-threaded environment?
+How do you synchronize an ArrayList and a LinkedList?
+Set Implementations: HashSet vs TreeSet
+What is the difference between a List and a Set in Java?
+How do you initialize a HashSet and a TreeSet?
+Can HashSet and TreeSet contain duplicate elements? Explain.
+What are the performance implications of using HashSet vs TreeSet for add, remove, and search operations?
+How does TreeSet maintain the order of its elements, and what is the role of the Comparable interface?
+Provide a scenario where a TreeSet is more suitable than a HashSet.
+What is the impact of inserting null into a HashSet and a TreeSet?
+How does the internal hashing mechanism of HashSet work?
+Discuss the thread-safety of HashSet and TreeSet. How can you make them thread-safe?
+Write a code example that demonstrates the use of a custom comparator in a TreeSet.
+Map Implementations: HashMap vs TreeMap
+How do you initialize a HashMap and a TreeMap in Java?
+What are the key differences between HashMap and TreeMap in terms of ordering?
+How does the performance of get and put operations compare between HashMap and TreeMap?
+Can a HashMap or TreeMap accept null values for keys and values? Provide examples.
+Explain the concept of load factor in HashMap.
+How does TreeMap sort its keys?
+Provide an example where TreeMap would be a better choice than HashMap.
+Discuss how collisions are handled in a HashMap.
+What happens if you modify the key of an entry in a HashMap or TreeMap while it is part of the Map?
+How can you synchronize a HashMap and a TreeMap?
