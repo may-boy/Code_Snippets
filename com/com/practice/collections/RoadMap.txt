@@ -10,22 +10,22 @@ Roadmap for the Collections framework:
 8.What happens when you try to add an element to a full ArrayList?
 9.How does the removal of elements from the middle of a list compare between ArrayList and LinkedList in terms of performance?
 10.Can you store null values in an ArrayList and a LinkedList? Provide examples.
-Write a code snippet to convert an ArrayList to an array and vice versa.
-How do ArrayList and LinkedList handle duplicates?
-Explain the significance of the ListIterator and how it can be used with LinkedList.
-Discuss the memory usage differences between ArrayList and LinkedList.
-What are the implications of using an ArrayList in a multi-threaded environment?
-How do you synchronize an ArrayList and a LinkedList?
-Set Implementations: HashSet vs TreeSet
-What is the difference between a List and a Set in Java?
-How do you initialize a HashSet and a TreeSet?
-Can HashSet and TreeSet contain duplicate elements? Explain.
-What are the performance implications of using HashSet vs TreeSet for add, remove, and search operations?
-How does TreeSet maintain the order of its elements, and what is the role of the Comparable interface?
-Provide a scenario where a TreeSet is more suitable than a HashSet.
-What is the impact of inserting null into a HashSet and a TreeSet?
-How does the internal hashing mechanism of HashSet work?
-Discuss the thread-safety of HashSet and TreeSet. How can you make them thread-safe?
+11. Write a code snippet to convert an ArrayList to an array and vice versa.
+12. How do ArrayList and LinkedList handle duplicates?
+13. Explain the significance of the ListIterator and how it can be used with LinkedList.
+14. Discuss the memory usage differences between ArrayList and LinkedList.
+15. What are the implications of using an ArrayList in a multi-threaded environment?
+16. How do you synchronize an ArrayList and a LinkedList?
+17. Set Implementations: HashSet vs TreeSet
+18. What is the difference between a List and a Set in Java?
+19. How do you initialize a HashSet and a TreeSet?
+20. Can HashSet and TreeSet contain duplicate elements? Explain.
+21. What are the performance implications of using HashSet vs TreeSet for add, remove, and search operations?
+22. How does TreeSet maintain the order of its elements, and what is the role of the Comparable interface?
+23. Provide a scenario where a TreeSet is more suitable than a HashSet.
+24. What is the impact of inserting null into a HashSet and a TreeSet?
+25. How does the internal hashing mechanism of HashSet work?
+26. Discuss the thread-safety of HashSet and TreeSet. How can you make them thread-safe?
 Write a code example that demonstrates the use of a custom comparator in a TreeSet.
 Map Implementations: HashMap vs TreeMap
 How do you initialize a HashMap and a TreeMap in Java?
