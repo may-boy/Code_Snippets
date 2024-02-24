@@ -1,0 +1,14 @@
+Number of Design patterns to Study:
+
+Adapter Pattern
+Builder Pattern
+Singleton Pattern
+Factory Method Pattern
+Decorator Pattern
+Observer Pattern
+Strategy Pattern
+Prototype Pattern
+Composite Pattern
+Proxy Pattern
+State Pattern
+Command Pattern
