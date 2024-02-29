@@ -8,6 +8,15 @@ public class DeletionOperation {
 
         performDeletion();
 
+        //Insert: O(n)
+        //Search: O(n) for unsorted.
+        //Delete: O(n)
+
+        //Get i'th element: O(1)
+        //Update the i'th element: O(1)
+
+        //Insert the element at the end and delete from the end can be done in O(1) time.
+
     }
 
     private static void performDeletion() {
