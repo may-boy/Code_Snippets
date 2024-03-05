@@ -34,6 +34,8 @@ public class RemovingDuplicatesFromArray {
 
     //This was the efficient method that required maintaining another array
     // to store the values.
+    //Time complexity: O(n)
+    //Space complexity: O(n)
     private static int removeDups(int[] arr, int n) {
 
         int length = arr.length;
